@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "896678447332",
+    "firebase_url": "https://radiologymaster-f1bd1.firebaseio.com",
+    "project_id": "radiologymaster-f1bd1",
+    "storage_bucket": "radiologymaster-f1bd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896678447332:android:3e04f4e3393080dc",
+        "android_client_info": {
+          "package_name": "com.mimartur.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896678447332-9crebbckgr893092e978b6m4skcponju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3c55Guq_QQc0uj-f495bFNzYaQvu232c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
